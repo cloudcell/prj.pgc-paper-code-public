@@ -1,0 +1,10 @@
+# install pytorch & cuda from pytorch.org !
+tensorboard
+tqdm
+numpy
+scipy
+matplotlib
+scikit-image
+scikit-learn
+
+prompt_toolkit
