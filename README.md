@@ -5,6 +5,11 @@
 # LICENSE: AGPL v3
 
 
+# Podcast
+
+https://youtu.be/axJjPfKU-U4
+
+
 # Here the PGC Is Learning Arithmetic
 
 The screenshot below demonstrates a dashboard with the learning progress of the algorithm learning arithmetic operations:
