@@ -20,3 +20,8 @@ Here's the same dashboard with a couple of tiles zoomed in:
 And here are the top-5 paths learned during initial 573 steps of learning multiplication:
 
 ![test](https://github.com/user-attachments/assets/3df2a71b-46d4-4e9b-9d4c-a33e4d009b29)
+
+And here is the dynamics observed during NLP tasks:
+
+![test_nlp](https://github.com/user-attachments/assets/a592aa7a-73d1-4f07-9084-8178e8d73a67)
+
