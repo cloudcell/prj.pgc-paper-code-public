@@ -1,4 +1,4 @@
-# Code for Paper: "Polimorphic Graph Classifier"
+# Code for Paper: "Polymorphic Graph Classifier"
 ### http://dx.doi.org/10.13140/RG.2.2.15744.55041
 
 | Author | Date | License |
