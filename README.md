@@ -54,3 +54,9 @@ And here is the dynamics observed during NLP tasks:
 
 ![test_nlp](https://github.com/user-attachments/assets/a592aa7a-73d1-4f07-9084-8178e8d73a67)
 
+
+# Statistics Visualisation Tool:
+
+![image](https://github.com/user-attachments/assets/8016ee33-5c04-42f3-ba25-5f2b60406759)
+
+
