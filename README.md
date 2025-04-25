@@ -33,8 +33,7 @@ The screenshot below demonstrates a dashboard with the learning progress of the 
 - green -- addition
 - red -- multiplication
 
-![image](https://github.com/user-attachments/assets/c30e565b-8c28-4ce2-b011-ad3937982c00)
-
+![image](https://github.com/user-attachments/assets/4eb31716-8b99-4340-8bc9-317f28023fc4)
 
 And here are the top-5 paths learned during initial 573 steps of learning multiplication:
 
