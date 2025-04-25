@@ -46,7 +46,7 @@ And here are the top-5 paths learned during initial 573 steps of learning multip
 ![test](https://github.com/user-attachments/assets/3df2a71b-46d4-4e9b-9d4c-a33e4d009b29)
 
 
-# Here the PGC Is to Learning to Generate Texts
+# Here the PGC Is Learning to Generate Texts
 
 And here is the dynamics observed during NLP tasks:
 
