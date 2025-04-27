@@ -24,7 +24,7 @@ python 273_addressing_txt.py
 
 # Podcast
 
-https://youtu.be/axJjPfKU-U4
+[https://youtu.be/axJjPfKU-U4](https://www.youtube.com/watch?v=tjqQ6yWCxCM)
 
 
 # Here the PGC Is Learning Arithmetic
