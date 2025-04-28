@@ -53,6 +53,10 @@ And here is the dynamics observed during NLP tasks:
 
 ![image](https://github.com/user-attachments/assets/8016ee33-5c04-42f3-ba25-5f2b60406759)
 
+# Dataset Viewer Tool:
+
+![image](https://github.com/user-attachments/assets/9eb9fc32-2629-4733-b5a6-5182aa50f544)
+
 # Algorithm Capabilities:
 
 ![image](https://github.com/user-attachments/assets/90f090ce-2b81-4067-8956-3ab53d53c903)
