@@ -35,6 +35,9 @@ AMU (early version)
 AMU (still does not compute 1*1)
 ![Figure_2](https://github.com/user-attachments/assets/225c5dcc-445c-4ab9-bc44-f385ec78a4bc)
 
+AMU Training progress (as of right now):
+![image](https://github.com/user-attachments/assets/4b1d6366-8ef4-45a8-b341-2b8e77fa96b7)
+
 
 # Here the PGC Is Learning Arithmetic
 
