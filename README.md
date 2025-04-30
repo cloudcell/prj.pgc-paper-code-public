@@ -41,7 +41,7 @@ AMU Training progress (as of right now... to be stopped.):
 AIU ("arithmetic integration unit" seems to be the only unit that 'behaves' relatively well mathematically).
 ...hopefully I will demonstrate this soon.
 
-(I am somewhat worried that we're putting to much trust in LLMs that are nowhere near the precision in computation to this...).
+(I am somewhat worried that we're putting so much trust in LLMs that are nowhere near the precision in computation to this...).
 (As for multiplication, I'm afraid it's not even possible to implement it reliably at all :( ).
 Let's see...
 
