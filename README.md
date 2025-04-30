@@ -29,8 +29,10 @@ python 273_addressing_txt.py
 
 # Signatures
 
+AMU (early version)
 ![Figure_1](https://github.com/user-attachments/assets/af0b186d-a119-40e8-afea-581e51e456d7)
 
+AMU (still does not compute 1*1)
 ![Figure_2](https://github.com/user-attachments/assets/225c5dcc-445c-4ab9-bc44-f385ec78a4bc)
 
 
