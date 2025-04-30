@@ -27,6 +27,11 @@ python 273_addressing_txt.py
 [https://youtu.be/axJjPfKU-U4](https://www.youtube.com/watch?v=tjqQ6yWCxCM)
 
 
+# Signatures
+
+![Figure_1](https://github.com/user-attachments/assets/af0b186d-a119-40e8-afea-581e51e456d7)
+
+
 # Here the PGC Is Learning Arithmetic
 
 The screenshot below demonstrates a dashboard with the learning progress of the algorithm learning arithmetic operations:
