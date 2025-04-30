@@ -32,12 +32,18 @@ python 273_addressing_txt.py
 AMU (early version)
 ![Figure_1](https://github.com/user-attachments/assets/af0b186d-a119-40e8-afea-581e51e456d7)
 
-AMU (still does not compute 1*1)
+AMU (still does not compute 1*1), it appears that AMU cannot perform and will not perform multiplication by design.
 ![Figure_2](https://github.com/user-attachments/assets/225c5dcc-445c-4ab9-bc44-f385ec78a4bc)
 
-AMU Training progress (as of right now):
+AMU Training progress (as of right now... to be stopped.):
 ![image](https://github.com/user-attachments/assets/4b1d6366-8ef4-45a8-b341-2b8e77fa96b7)
 
+AIU ("arithmetic integration unit" seems to be the only unit that 'behaves' relatively well mathematically).
+...hopefully I will demonstrate this soon.
+
+(I am somewhat worried that we're putting to much trust in LLMs that are nowhere near the precision in computation to this...).
+(As for multiplication, I'm afraid it's not even possible to implement it reliably at all :( ).
+Let's see...
 
 # Here the PGC Is Learning Arithmetic
 
