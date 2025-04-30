@@ -31,6 +31,8 @@ python 273_addressing_txt.py
 
 ![Figure_1](https://github.com/user-attachments/assets/af0b186d-a119-40e8-afea-581e51e456d7)
 
+![Figure_2](https://github.com/user-attachments/assets/225c5dcc-445c-4ab9-bc44-f385ec78a4bc)
+
 
 # Here the PGC Is Learning Arithmetic
 
