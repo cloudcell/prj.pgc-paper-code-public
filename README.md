@@ -79,4 +79,15 @@ And here is the dynamics observed during NLP tasks:
 
 ![image](https://github.com/user-attachments/assets/90f090ce-2b81-4067-8956-3ab53d53c903)
 
+# Research Log:
+
+2025-05-02 06:34
+
+AIU Training:
+
+Cleaner spectrum now:
+
+![Figure_1,0,add,permute](https://github.com/user-attachments/assets/422ed70a-c8a5-4fac-9837-f88b6fde31b2)
+
+
 
