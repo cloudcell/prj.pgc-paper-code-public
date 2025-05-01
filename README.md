@@ -94,5 +94,8 @@ Cleaner spectrum now:
 
 ![Screenshot 2025-05-02 at 10-03-37 TensorBoard](https://github.com/user-attachments/assets/40768652-3052-4e08-8260-684f083c2402)
 
+2025-05-02 10:44
+
+![Figure_update](https://github.com/user-attachments/assets/ad311fea-bd77-475e-8d43-a5a4d82e194a)
 
 
