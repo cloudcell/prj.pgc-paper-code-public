@@ -99,3 +99,7 @@ Cleaner spectrum now:
 ![Figure_update](https://github.com/user-attachments/assets/ad311fea-bd77-475e-8d43-a5a4d82e194a)
 
 
+---
+If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
+
+
