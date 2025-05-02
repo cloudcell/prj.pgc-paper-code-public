@@ -1,9 +1,9 @@
 # Code for Paper: "Polymorphic Graph Classifier"
 ### http://dx.doi.org/10.13140/RG.2.2.15744.55041
 
-| Design | Implementation | IDE | Date | License |
+| Design | Implementation | IDE | Dates | License |
 | ------ | -------------- | ---- | ---- | ------- |
-| Alexander Bikeyev | Inception Labs + Sonnet 3.7 | Windsurf |2025-04-20 | AGPL v3 |
+| Alexander Bikeyev | Inception Labs + Sonnet 3.7 | Windsurf |2025-04-17/present | AGPL v3 |
 
 ### Running the Example
 ```
