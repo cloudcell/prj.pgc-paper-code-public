@@ -417,6 +417,13 @@ red line -- old multiplication table (defective); green line -- old addition tab
 
 seems to train well so far...
 
+2025-05-03 10:06
+
+AIU training is going well so far. Here's the frequency response to calculations and some alphanumeric input (details to be provided later):
+
+![de-novo-digits-alphanumeric-freq-response](https://github.com/user-attachments/assets/3338012a-4425-4c54-88d1-d7f9e8b4aa11)
+
+
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
 
