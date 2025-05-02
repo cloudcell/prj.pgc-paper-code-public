@@ -410,10 +410,12 @@ In a similar way, one could train lambda calculus (or at least addition / multip
 Hopefully, I will soon release the results on how PGC has learned 1-3-digit addition function (in a few hours)...
 
 For now, here's the progress as of 02:08
+
+red line -- old multiplication table (defective); green line -- old addition table (incomplete) ; blue line -- new addition table (complete)... 
+
 ![Screenshot 2025-05-03 at 02-07-27 TensorBoard](https://github.com/user-attachments/assets/94ac1876-7d41-4718-a1d5-2ca1c4dc1d78)
-red line -- old multiplication table (defective)
-green line -- old addition table (incomplete)
-blue line -- new addition table (complete)... seems to train well so far...
+
+seems to train well so far...
 
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
