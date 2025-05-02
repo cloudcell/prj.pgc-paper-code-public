@@ -162,6 +162,10 @@ To be continued, hopefully...
 Training on Go Rin No Sho -- VERBATIM:
 ![Screenshot 2025-05-02 at 19-01-23 TensorBoard](https://github.com/user-attachments/assets/541d8ffd-0600-4d64-b7c8-b7db04178717)
 
+2025-05-02 20:22
+
+Future Work:
+Implement https://en.wikipedia.org/wiki/Brainfuck within a PGC Unit.
 
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
