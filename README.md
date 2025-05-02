@@ -399,6 +399,12 @@ Model calls: 1024
 Model call speed: 131.29 calls/second
 ```
 
+Here are the training parameters:
+
+![image](https://github.com/user-attachments/assets/3a81936c-4dfe-4919-8881-be460e0f510e)
+
+
+
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
 
