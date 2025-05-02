@@ -1,4 +1,4 @@
-# Author: Alexander Bikeyev
+# Design: Alexander Bikeyev
 # Date: 2025-04-20
 
 
