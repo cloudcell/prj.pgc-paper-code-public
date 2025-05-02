@@ -175,7 +175,7 @@ Stopping wrongly formed AIU training operation (training set with 'holes' due to
 2025-05-02 21:22
 
 Started AIU training operation on a corrected 'addition' training dataset:
-![Screenshot 2025-05-02 at 21-01-48 TensorBoard](https://github.com/user-attachments/assets/313855c4-4af2-4090-959b-f33ef816944f)
+![Screenshot 2025-05-02 at 21-20-10 TensorBoard](https://github.com/user-attachments/assets/6472a5e2-512d-4987-9ec7-19ad200b4f62)
 
 
 ---
