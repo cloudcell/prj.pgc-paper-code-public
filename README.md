@@ -167,6 +167,11 @@ Training on Go Rin No Sho -- VERBATIM:
 Future Work:
 Implement https://en.wikipedia.org/wiki/Brainfuck within a PGC Unit.
 
+2025-05-02 21:03
+
+Stopping wrongly formed AIU training operation (training set with 'holes' due to a bug):
+![Screenshot 2025-05-02 at 21-01-48 TensorBoard](https://github.com/user-attachments/assets/e1dc50cb-f20a-42d0-8ce6-1ada71c5d3ea)
+
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
 
