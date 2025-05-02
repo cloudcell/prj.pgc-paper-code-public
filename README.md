@@ -172,6 +172,12 @@ Implement https://en.wikipedia.org/wiki/Brainfuck within a PGC Unit.
 Stopping wrongly formed AIU training operation (training set with 'holes' due to a bug):
 ![Screenshot 2025-05-02 at 21-01-48 TensorBoard](https://github.com/user-attachments/assets/e1dc50cb-f20a-42d0-8ce6-1ada71c5d3ea)
 
+2025-05-02 21:22
+
+Started AIU training operation on a corrected 'addition' training dataset:
+![Screenshot 2025-05-02 at 21-01-48 TensorBoard](https://github.com/user-attachments/assets/313855c4-4af2-4090-959b-f33ef816944f)
+
+
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
 
