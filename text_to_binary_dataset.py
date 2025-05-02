@@ -70,7 +70,8 @@ def process_text_file(file_path):
 def main():
     # Input and output paths
     # input_file = 'data/NLP/gutenberg/data/art_of_war_pg132.txt'
-    input_file = 'data/NLP/gutenberg/data/corpus_fgmtw/corpus_fgmtw.txt'
+    # input_file = 'data/NLP/gutenberg/data/corpus_fgmtw/corpus_fgmtw.txt'
+    input_file = 'data/IMAGES/Kobokumeigekizu.txt'
     output_dir = 'data/NLP/raw'
     
     # Create output directory if it doesn't exist
