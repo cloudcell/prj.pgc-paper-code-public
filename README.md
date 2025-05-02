@@ -157,6 +157,12 @@ Model call speed: 131.92 calls/second
 Not perfect because a portion of the text was used for validation ONLY! (Need that piece for the compression as well!)
 To be continued, hopefully...
 
+2025-05-02 19:03
+
+Training on Go Rin No Sho -- VERBATIM:
+![Screenshot 2025-05-02 at 19-01-23 TensorBoard](https://github.com/user-attachments/assets/541d8ffd-0600-4d64-b7c8-b7db04178717)
+
+
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
 
