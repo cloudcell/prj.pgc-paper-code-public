@@ -177,6 +177,233 @@ Stopping wrongly formed AIU training operation (training set with 'holes' due to
 Started AIU training operation on a corrected 'addition' training dataset:
 ![Screenshot 2025-05-02 at 21-20-10 TensorBoard](https://github.com/user-attachments/assets/6472a5e2-512d-4987-9ec7-19ad200b4f62)
 
+2025-05-03 01:07
+
+Success!!!
+The algorithm can now pack and recover data based on an input string:
+```
+Select folder number (or 'c' to cancel): 15
+Loading checkpoint: model_20250502_153922_epoch_37.pt
+Model loaded successfully!
+
+Text Generation Menu
+=========================
+1. Select checkpoint folder
+2. Generate text from input
+3. Generate text from empty input
+4. Set number of tokens to generate
+5. Generate test response
+6. Exit
+=========================
+Current checkpoint folder: checkpoints_20250502_153917
+Loaded checkpoint: model_20250502_153922_epoch_37.pt
+Current tokens to generate: 100
+ 
+Enter your choice (1-6): 3
+
+Generating text from empty input...
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 114.51it/s]
+
+Generated text:
+--------------------------------------------------
+<|sot|>                                                                                                  . . . . . . he che ". c c Sho" is "cced" is a macy" an a che sch on. Grchi" lis boch". Se men in "hi<|eot|>
+--------------------------------------------------
+
+Generation time: 0.87s
+Model calls: 100
+Model call speed: 114.33 calls/second
+
+Text Generation Menu
+=========================
+1. Select checkpoint folder
+2. Generate text from input
+3. Generate text from empty input
+4. Set number of tokens to generate
+5. Generate test response
+6. Exit
+=========================
+Current checkpoint folder: checkpoints_20250502_153917
+Loaded checkpoint: model_20250502_153922_epoch_37.pt
+Current tokens to generate: 100
+
+Generation Statistics:
+Total model calls: 100
+Total generation time: 0.87s
+Average time per model call: 8.75ms
+Model call speed: 114.33 calls/second
+ 
+Enter your choice (1-6): 2
+ 
+Enter your text (will use last 98 chars if longer): Miyamoto Musashi
+
+Generating text...
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 127.88it/s]
+
+Generated text:
+--------------------------------------------------
+<|sot|>Miyamoto Musashi at his or cpreneming. I lisurshed with 
+anemy. 
+
+Shere of the Fictoci"iustn tepagoly rear to use wh<|eot|>
+--------------------------------------------------
+
+Generation time: 0.78s
+Model calls: 100
+Model call speed: 127.82 calls/second
+
+Text Generation Menu
+=========================
+1. Select checkpoint folder
+2. Generate text from input
+3. Generate text from empty input
+4. Set number of tokens to generate
+5. Generate test response
+6. Exit
+=========================
+Current checkpoint folder: checkpoints_20250502_153917
+Loaded checkpoint: model_20250502_153922_epoch_37.pt
+Current tokens to generate: 100
+
+Generation Statistics:
+Total model calls: 200
+Total generation time: 1.66s
+Average time per model call: 8.28ms
+Model call speed: 120.70 calls/second
+ 
+Enter your choice (1-6): 2
+ 
+Enter your text (will use last 98 chars if longer): Miyamoto Musashi was born in 1584, in a Japan struggling to recover from more than four
+
+Generating text...
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 128.78it/s]
+
+Generated text:
+--------------------------------------------------
+<|sot|>Miyamoto Musashi was born in 1584, in a Japan struggling to recover from more than four 
+ceptins as a some sall or rit 
+comet a spirten hears afteriss of the swerd. And strategy is expech<|eot|>
+--------------------------------------------------
+
+Generation time: 0.78s
+Model calls: 100
+Model call speed: 128.70 calls/second
+
+Text Generation Menu
+=========================
+1. Select checkpoint folder
+2. Generate text from input
+3. Generate text from empty input
+4. Set number of tokens to generate
+5. Generate test response
+6. Exit
+=========================
+Current checkpoint folder: checkpoints_20250502_153917
+Loaded checkpoint: model_20250502_153922_epoch_37.pt
+Current tokens to generate: 100
+
+Generation Statistics:
+Total model calls: 300
+Total generation time: 2.43s
+Average time per model call: 8.11ms
+Model call speed: 123.26 calls/second
+ 
+Enter your choice (1-6): 2
+ 
+Enter your text (will use last 98 chars if longer): place in fencing halls and before shrines, in the streets and within castle walls. Duels were
+
+Generating text...
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 125.93it/s]
+
+Generated text:
+--------------------------------------------------
+<|sot|>place in fencing halls and before shrines, in the streets and within castle walls. Duels were 
+fought to the death or until one of the contestants was disabled, but a few generations 
+after Mus<|eot|>
+--------------------------------------------------
+
+Generation time: 0.79s
+Model calls: 100
+Model call speed: 125.86 calls/second
+
+Text Generation Menu
+=========================
+1. Select checkpoint folder
+2. Generate text from input
+3. Generate text from empty input
+4. Set number of tokens to generate
+5. Generate test response
+6. Exit
+=========================
+Current checkpoint folder: checkpoints_20250502_153917
+Loaded checkpoint: model_20250502_153922_epoch_37.pt
+Current tokens to generate: 100
+
+Generation Statistics:
+Total model calls: 400
+Total generation time: 3.23s
+Average time per model call: 8.07ms
+Model call speed: 123.90 calls/second
+ 
+Enter your choice (1-6): 4
+ 
+Enter number of tokens to generate (1-1024*16): 1024
+
+Set number of tokens to: 1024
+
+Text Generation Menu
+=========================
+1. Select checkpoint folder
+2. Generate text from input
+3. Generate text from empty input
+4. Set number of tokens to generate
+5. Generate test response
+6. Exit
+=========================
+Current checkpoint folder: checkpoints_20250502_153917
+Loaded checkpoint: model_20250502_153922_epoch_37.pt
+Current tokens to generate: 1024
+
+Generation Statistics:
+Total model calls: 400
+Total generation time: 3.23s
+Average time per model call: 8.07ms
+Model call speed: 123.90 calls/second
+ 
+Enter your choice (1-6): 2
+ 
+Enter your text (will use last 98 chars if longer): place in fencing halls and before shrines, in the streets and within castle walls. Duels were
+
+Generating text...
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1024/1024 [00:07<00:00, 131.29it/s]
+
+Generated text:
+--------------------------------------------------
+<|sot|>place in fencing halls and before shrines, in the streets and within castle walls. Duels were 
+fought to the death or until one of the contestants was disabled, but a few generations 
+after Musashi's time the "shinai", a pliable bamboo sword, and later padded fencing 
+armour, came to be widely used, so the chances of injury were greatly reduced. The 
+samurai studied with all kinds of weapons: halberds, sticks, swords, chain and sickle, and 
+others. Many schools using such weapons survive in traditional form in Japan today. 
+
+To train in Kendo one must subjugate the self, bear the pain of gruelling practise, 
+and cultivate a level mind in the face of peril. But the Way of the sword means not only 
+fencing training but also living by the code of honour of the samurai elite. Warfare was the 
+spirit of the samurai's everyday life, and he could face death as if it were a domestic 
+routine. The meaning of life and death by the sword was mirrored in the everyday conduct 
+of the feudal Japanese, and he who realised the resolute acceptance of death at any 
+moment in his everyday life was a master of the sword.<|eot|>
+--------------------------------------------------
+
+Generation time: 7.80s
+Model calls: 1024
+Model call speed: 131.29 calls/second
+```
+
+Here are the training parameters:
+
+![image](https://github.com/user-attachments/assets/3a81936c-4dfe-4919-8881-be460e0f510e)
+
+
 
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
