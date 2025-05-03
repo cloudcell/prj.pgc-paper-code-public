@@ -435,6 +435,13 @@ Log Scale:
 ![image](https://github.com/user-attachments/assets/d1b64eaf-c152-4cea-9242-4aa079d18f30)
 
 
+Selected Snippet:
+Linear Scale:
+![image](https://github.com/user-attachments/assets/fcccd61d-5c45-4d79-bee7-34b8dcf9598b)
+Log Scale:
+![image](https://github.com/user-attachments/assets/e4b5781c-a5e6-4dc3-9e52-5ea29eb47cd6)
+
+
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
 
