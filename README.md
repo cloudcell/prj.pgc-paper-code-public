@@ -417,6 +417,31 @@ red line -- old multiplication table (defective); green line -- old addition tab
 
 seems to train well so far...
 
+2025-05-03 10:06
+
+AIU training is going well so far. Here's the frequency response to calculations and some alphanumeric input (details to be provided later):
+
+![de-novo-digits-alphanumeric-freq-response](https://github.com/user-attachments/assets/3338012a-4425-4c54-88d1-d7f9e8b4aa11)
+
+
+2025-05-04 00:07
+
+AIU model_epoch_2 frequency response:
+
+Linear Scale:
+![image](https://github.com/user-attachments/assets/16a6249c-4741-4027-8120-6885fa5bdfa5)
+
+Log Scale:
+![image](https://github.com/user-attachments/assets/d1b64eaf-c152-4cea-9242-4aa079d18f30)
+
+
+Selected Snippet:
+Linear Scale:
+![image](https://github.com/user-attachments/assets/fcccd61d-5c45-4d79-bee7-34b8dcf9598b)
+Log Scale:
+![image](https://github.com/user-attachments/assets/e4b5781c-a5e6-4dc3-9e52-5ea29eb47cd6)
+
+
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
 
