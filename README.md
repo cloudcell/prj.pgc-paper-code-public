@@ -424,6 +424,17 @@ AIU training is going well so far. Here's the frequency response to calculations
 ![de-novo-digits-alphanumeric-freq-response](https://github.com/user-attachments/assets/3338012a-4425-4c54-88d1-d7f9e8b4aa11)
 
 
+2025-05-04 00:07
+
+AIU model_epoch_2 frequency response:
+
+Linear Scale:
+![image](https://github.com/user-attachments/assets/16a6249c-4741-4027-8120-6885fa5bdfa5)
+
+Log Scale:
+![image](https://github.com/user-attachments/assets/d1b64eaf-c152-4cea-9242-4aa079d18f30)
+
+
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
 
