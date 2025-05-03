@@ -441,6 +441,10 @@ Linear Scale:
 Log Scale:
 ![image](https://github.com/user-attachments/assets/e4b5781c-a5e6-4dc3-9e52-5ea29eb47cd6)
 
+2025-05-04 03:33
+AIU training is going well so far... (see blue lines):
+![Screenshot 2025-05-04 at 03-32-27 TensorBoard](https://github.com/user-attachments/assets/db1f3ef5-56f5-495f-89d7-d749e1a8ddc7)
+
 
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
