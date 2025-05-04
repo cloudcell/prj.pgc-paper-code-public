@@ -21,8 +21,9 @@ python3 text_to_binary_dataset.py
 python 273_addressing_txt.py
 ```
 
-### For More Information, Visit This Repo:
+### For More Information, Visit These Repos:
 https://github.com/cloudcell/pgc/
+https://github.com/cloudcell/prj.textwarp/
 
 
 # Podcast
