@@ -448,6 +448,10 @@ Log Scale:
 AIU training is going well so far... (see blue lines):
 ![Screenshot 2025-05-04 at 03-32-27 TensorBoard](https://github.com/user-attachments/assets/db1f3ef5-56f5-495f-89d7-d749e1a8ddc7)
 
+2025-05-05 05:30
+AIU training is still going well... (see blue lines):
+![Screenshot 2025-05-05 at 05-28-46 TensorBoard](https://github.com/user-attachments/assets/1859b190-7409-43f4-bbd3-e2d31d28fcc4)
+
 
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
