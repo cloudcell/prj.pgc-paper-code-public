@@ -1,5 +1,6 @@
 # Code for Paper: "Polymorphic Graph Classifier"
 ### http://dx.doi.org/10.13140/RG.2.2.15744.55041
+### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5225566
 
 | Design | Implementation | IDE | Dates | License |
 | ------ | -------------- | ---- | ---- | ------- |
