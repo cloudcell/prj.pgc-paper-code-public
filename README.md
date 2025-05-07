@@ -454,6 +454,10 @@ AIU training is going well so far... (see blue lines):
 AIU training is still going well... (see blue lines):
 ![Screenshot 2025-05-05 at 05-28-46 TensorBoard](https://github.com/user-attachments/assets/1859b190-7409-43f4-bbd3-e2d31d28fcc4)
 
+2025-05-08 00:38
+AIU training is going well... (with one exception, server SSD got filled to 100% capacity and the program crashed... Hence the restart).
+![Screenshot 2025-05-08 at 00-35-35 TensorBoard](https://github.com/user-attachments/assets/2633d1df-338c-43fc-bf3c-3a27f9fe37ba)
+
 
 ---
 If you are having trouble training your model, you can reach me at alex@cloudcell.nz .
