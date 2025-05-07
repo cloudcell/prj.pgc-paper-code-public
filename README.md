@@ -1,5 +1,6 @@
 # Code for Paper: "Polymorphic Graph Classifier"
 ### http://dx.doi.org/10.13140/RG.2.2.15744.55041
+### https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5225566
 
 | Design | Implementation | IDE | Dates | License |
 | ------ | -------------- | ---- | ---- | ------- |
@@ -20,6 +21,10 @@ python3 text_to_binary_dataset.py
 # Run the training
 python 273_addressing_txt.py
 ```
+
+### For More Information, Visit These Repos:
+https://github.com/cloudcell/pgc/
+https://github.com/cloudcell/prj.textwarp/
 
 
 # Podcast
@@ -440,6 +445,18 @@ Linear Scale:
 ![image](https://github.com/user-attachments/assets/fcccd61d-5c45-4d79-bee7-34b8dcf9598b)
 Log Scale:
 ![image](https://github.com/user-attachments/assets/e4b5781c-a5e6-4dc3-9e52-5ea29eb47cd6)
+
+2025-05-04 03:33
+AIU training is going well so far... (see blue lines):
+![Screenshot 2025-05-04 at 03-32-27 TensorBoard](https://github.com/user-attachments/assets/db1f3ef5-56f5-495f-89d7-d749e1a8ddc7)
+
+2025-05-05 05:30
+AIU training is still going well... (see blue lines):
+![Screenshot 2025-05-05 at 05-28-46 TensorBoard](https://github.com/user-attachments/assets/1859b190-7409-43f4-bbd3-e2d31d28fcc4)
+
+2025-05-08 00:38
+AIU training is going well... (with one exception, server SSD got filled to 100% capacity and the program crashed... Hence the restart).
+![Screenshot 2025-05-08 at 00-35-35 TensorBoard](https://github.com/user-attachments/assets/2633d1df-338c-43fc-bf3c-3a27f9fe37ba)
 
 
 ---
